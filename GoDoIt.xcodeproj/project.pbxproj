@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A5D84FB02D414A5A001855DC /* Exceptions for "GoDoIt" folder in "GoDoIt" target */ = {
+		A5B6B3C72D4B6492006C640E /* Exceptions for "GoDoIt" folder in "GoDoIt" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A5D84FA02D414A57001855DC /* GoDoIt */ = {
+		A5B6B3C02D4B6492006C640E /* GoDoIt */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				A5D84FB02D414A5A001855DC /* Exceptions for "GoDoIt" folder in "GoDoIt" target */,
+				A5B6B3C72D4B6492006C640E /* Exceptions for "GoDoIt" folder in "GoDoIt" target */,
 			);
 			path = GoDoIt;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		A5D84F952D414A57001855DC = {
 			isa = PBXGroup;
 			children = (
-				A5D84FA02D414A57001855DC /* GoDoIt */,
+				A5B6B3C02D4B6492006C640E /* GoDoIt */,
 				A5D84F9F2D414A57001855DC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A5D84FA02D414A57001855DC /* GoDoIt */,
+				A5B6B3C02D4B6492006C640E /* GoDoIt */,
 			);
 			name = GoDoIt;
 			packageProductDependencies = (
